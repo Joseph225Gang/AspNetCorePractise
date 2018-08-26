@@ -1,0 +1,22 @@
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\bin\Debug\netcoreapp2.0\AspNetCorePractise.deps.json
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\bin\Debug\netcoreapp2.0\AspNetCorePractise.runtimeconfig.json
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\bin\Debug\netcoreapp2.0\AspNetCorePractise.runtimeconfig.dev.json
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\bin\Debug\netcoreapp2.0\AspNetCorePractise.dll
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.AssemblyInfoInputs.cache
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.AssemblyInfo.cs
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\bin\Debug\netcoreapp2.0\AspNetCorePractise.pdb
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.dll
+C:\Users\joseph\source\repos\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.pdb
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\bin\Debug\netcoreapp2.0\AspNetCorePractise.deps.json
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\bin\Debug\netcoreapp2.0\AspNetCorePractise.runtimeconfig.json
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\bin\Debug\netcoreapp2.0\AspNetCorePractise.runtimeconfig.dev.json
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\bin\Debug\netcoreapp2.0\AspNetCorePractise.dll
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\bin\Debug\netcoreapp2.0\AspNetCorePractise.pdb
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.csprojAssemblyReference.cache
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.csproj.CoreCompileInputs.cache
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.AssemblyInfoInputs.cache
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.AssemblyInfo.cs
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.dll
+D:\c sharp\Visual Studio 2017\AspNetCorePractise\AspNetCorePractise\obj\Debug\netcoreapp2.0\AspNetCorePractise.pdb
